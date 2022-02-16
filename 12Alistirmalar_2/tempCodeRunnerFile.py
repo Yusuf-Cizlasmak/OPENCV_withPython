@@ -1,0 +1,1 @@
+#sayısal değerleri eşitse (pikselleri karşılaştırıcaz yani) eşitse aynıdır.
